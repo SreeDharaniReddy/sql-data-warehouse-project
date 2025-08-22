@@ -96,4 +96,4 @@ This project reflects my hands-on learning in **data warehousing, ETL, and SQL-b
 
 📌 Feel free to check my work and connect with me!
 
-![LinkedIn](https://www.linkedin.com/in/dharani-sanapureddy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharani-sanapureddy/)
